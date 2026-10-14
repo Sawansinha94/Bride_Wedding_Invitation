@@ -1,0 +1,11 @@
+/* Bride-side desktop/tablet/mobile layout corrections. No JS behavior changes. */
+#events .ceremony-grid { width: min(100%, 1320px); margin-inline: auto; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: clamp(16px, 2vw, 28px); align-items: stretch; }
+#events .ceremony-card { min-width: 0; width: 100%; box-sizing: border-box; }
+#contact .contact-grid { width: min(100%, 660px); margin-inline: auto; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; }
+#contact .contact { min-width: 0; box-sizing: border-box; }
+#contact .section-heading { text-align: center; margin-inline: auto; }
+.hero-center .hero-dates { width: 100%; display: flex; justify-content: center; align-items: center; margin-inline: auto; }
+.hero-center .hero-date { width: fit-content; max-width: 100%; margin-inline: auto; text-align: center; display: flex; flex-direction: column; justify-content: center; align-items: center; }
+.hero-center .hero-date strong, .hero-center .hero-date small { text-align: center; width: 100%; }
+@media (min-width: 701px) and (max-width: 1000px) { #events .ceremony-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } #events .ceremony-card:last-child:nth-child(odd) { grid-column: 1 / -1; width: min(100%, calc((100% - 20px) / 2)); justify-self: center; } }
+@media (max-width: 700px) { #events .ceremony-grid { grid-template-columns: minmax(0, 1fr); width: min(100%, 480px); gap: 18px; } #events .ceremony-card { min-height: 0; } #contact .contact-grid { grid-template-columns: minmax(0, 1fr); width: min(100%, 420px); gap: 16px; } #contact .contact { width: 100%; } .hero-center .hero-date { max-width: min(100%, 310px); } }
