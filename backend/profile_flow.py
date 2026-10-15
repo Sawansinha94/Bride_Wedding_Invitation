@@ -46,7 +46,7 @@ def vector_candidates(name):
         emit('profile.vector.unavailable',service='pinecone',operation='candidate_search',status='error')
         return []
     idx=pinecone.Pinecone(api_key=key).Index(host=host)
-    namespace=os.getenv('PINECONE_PRIVATE_NAMESPACE','wedding-private-profiles')
+    namespace=os.getenv('PINECONE_PRIVATE_NAMESPACE','wedding-bride-profiles')
     result=idx.search(namespace=namespace,query={'inputs':{'text':name},'top_k':12},fields=['name','aliases'])
     data=result.to_dict() if hasattr(result,'to_dict') else result
     if not isinstance(data,dict):data={}

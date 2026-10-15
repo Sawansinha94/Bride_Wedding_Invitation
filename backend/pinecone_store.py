@@ -9,7 +9,7 @@ def family_lookup(query: str) -> list[dict]:
     from pinecone import Pinecone
     pc = Pinecone(api_key=api_key)
     index = pc.Index(host=index_host)
-    namespace = os.getenv("PINECONE_NAMESPACE", "wedding-family")
+    namespace = os.getenv("PINECONE_NAMESPACE", "wedding-bride-profiles")
     # Pinecone integrated-embedding index (field configured as 'text').
     result = index.search(namespace=namespace, query={"inputs":{"text":query}, "top_k":5}, fields=["name","side","relation","age","traits","bio","text"])
     hits = result.get("result", {}).get("hits", []) if isinstance(result,dict) else result.result.hits

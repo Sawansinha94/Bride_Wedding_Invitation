@@ -54,7 +54,7 @@ async def welcome(body: WelcomeRequest):
                 candidates=[]
             else:
                 index=Pinecone(api_key=key).Index(host=host)
-                result=index.fetch(ids=[candidates[0]['id']],namespace=os.getenv('PINECONE_NAMESPACE','wedding-family'))
+                result=index.fetch(ids=[candidates[0]['id']],namespace=os.getenv('PINECONE_NAMESPACE','wedding-bride-profiles'))
                 vectors=result.get('vectors',{}) if isinstance(result,dict) else getattr(result,'vectors',{})
                 record=vectors.get(candidates[0]['id']) if vectors else None
                 meta=(record.get('metadata',{}) if isinstance(record,dict) else getattr(record,'metadata',{})) if record else {}
