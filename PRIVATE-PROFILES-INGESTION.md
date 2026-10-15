@@ -29,7 +29,7 @@ PINECONE_API_KEY=your_actual_key
 PINECONE_INDEX_HOST=existing_public_index_host
 PINECONE_NAMESPACE=wedding-family
 PINECONE_PRIVATE_INDEX_HOST=new_dedicated_private_index_host
-PINECONE_PRIVATE_NAMESPACE=wedding-private-profiles
+PINECONE_PRIVATE_NAMESPACE=wedding-bride-profiles
 ```
 
 Use a distinct private index host. If `PINECONE_PRIVATE_INDEX_HOST` matches `PINECONE_INDEX_HOST`, the uploader refuses to run.

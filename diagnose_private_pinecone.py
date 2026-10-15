@@ -3,7 +3,7 @@ import os,sys,json
 from dotenv import load_dotenv
 load_dotenv()
 from pinecone import Pinecone
-key=os.getenv('PINECONE_API_KEY');host=os.getenv('PINECONE_PRIVATE_INDEX_HOST');ns=os.getenv('PINECONE_PRIVATE_NAMESPACE','wedding-private-profiles')
+key=os.getenv('PINECONE_API_KEY');host=os.getenv('PINECONE_PRIVATE_INDEX_HOST');ns=os.getenv('PINECONE_PRIVATE_NAMESPACE', 'wedding-bride-profiles')
 if not key or not host:sys.exit('Configure PINECONE_API_KEY and PINECONE_PRIVATE_INDEX_HOST')
 index=Pinecone(api_key=key).Index(host=host)
 print('Index stats:',index.describe_index_stats())

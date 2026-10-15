@@ -3,7 +3,7 @@
 ## Setup
 
 1. Keep the existing `.env`. Add `CONCIERGE_SIGNING_SECRET` with a random 32+ character value (for example `python -c 'import secrets;print(secrets.token_urlsafe(48))'`). Never expose this secret in the browser.
-2. Set `PINECONE_PRIVATE_INDEX_HOST` to the host containing the **72 records**, and `PINECONE_PRIVATE_NAMESPACE=wedding-private-profiles`. Set `PINECONE_API_KEY` as before. Do not use the legacy `wedding-family` namespace.
+2. Set `PINECONE_PRIVATE_INDEX_HOST` to the host containing the **72 records**, and `PINECONE_PRIVATE_NAMESPACE=wedding-bride-profiles`. Set `PINECONE_API_KEY` as before. Do not use the legacy `wedding-family` namespace.
 3. Configure Neon and execute `observability_schema.sql`; set `OBSERVABILITY_ENABLED=true`, `LOG_SENSITIVE_PAYLOADS=true` if you deliberately want full chat and question-answer logs. Secure Neon access and tell guests about logging.
 4. Run `pip install -r requirements.txt` and `uvicorn server:app --reload --port 8000`.
 5. On the welcome page, enter `Sailendra Kumar`, open the Concierge, and answer the confirmation prompt. His profile has no question; it uses safe greeting preferences. For `Sandhya`, a question is asked.

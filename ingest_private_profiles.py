@@ -65,7 +65,7 @@ def main():
     load_dotenv(ROOT / '.env')
     api_key = os.getenv('PINECONE_API_KEY','').strip()
     host = os.getenv('PINECONE_PRIVATE_INDEX_HOST','').strip()
-    namespace = os.getenv('PINECONE_PRIVATE_NAMESPACE','wedding-private-profiles').strip()
+    namespace = os.getenv('PINECONE_PRIVATE_NAMESPACE','wedding-bride-profiles').strip()
     public_host = os.getenv('PINECONE_INDEX_HOST','').strip()
     public_namespace = os.getenv('PINECONE_NAMESPACE','wedding-family').strip()
     if not api_key or not host:

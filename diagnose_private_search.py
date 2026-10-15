@@ -5,7 +5,7 @@ from pinecone import Pinecone
 load_dotenv()
 query=' '.join(sys.argv[1:]).strip() or 'Sailendra Kumar'
 host=os.getenv('PINECONE_PRIVATE_INDEX_HOST','').strip()
-ns=os.getenv('PINECONE_PRIVATE_NAMESPACE','wedding-private-profiles').strip()
+ns=os.getenv('PINECONE_PRIVATE_NAMESPACE','wedding-bride-profiles').strip()
 if not host: raise SystemExit('Set PINECONE_PRIVATE_INDEX_HOST')
 index=Pinecone(api_key=os.environ['PINECONE_API_KEY']).Index(host=host)
 stats=index.describe_index_stats()

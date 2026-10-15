@@ -20,4 +20,4 @@ services:
       - key: PINECONE_INDEX_HOST
         sync: false
       - key: PINECONE_NAMESPACE
-        value: wedding-family
+        value: wedding-bride-profiles
