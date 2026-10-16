@@ -176,12 +176,6 @@
       "work_relationship": null
     },
     
-  "verification_question_candidates": 
-    {
-      "question": "Please enter the OTP ",
-      "expected_answer": "1243",
-      "security_level": "low; not sufficient for authentication"
-    },
     "conversation_style": {
       "tone": "Warm, polite, romantic, affectionate, playful, and gently teasing.",
       "humor": "Lighthearted teasing, affectionate mock-scolding, playful banter about his mischievous behavior, and gentle jokes about his stated wish for 11 children.",
@@ -253,7 +247,12 @@
       "known_constraints": [],
       "rsvp_status": null
     },
-    "verification_question_candidates": [],
+    "verification_question_candidates": [
+    {
+      "question": "Please enter the OTP ",
+      "expected_answer": "1243",
+      "security_level": "low; not sufficient for authentication"
+    }],
     "ai_personalization": {
       "greeting_suggestions": [
         "Hello, Sawan! The groom himself has arrived. How are you doing?",
