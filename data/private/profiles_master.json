@@ -318,5 +318,503 @@
         "Confirm exact dates only if required for wedding planning or accurate chronology."
       ]
     }
+  },
+
+  {    "id": "friend-aakriti-pandey",
+    "name": "Aakriti Pandey",
+    "side": "bride",
+    "relation": "Friend met at an NSS camp in Patna during college",
+    "aliases": [],
+    "traits": [
+      "sweet",
+      "polite",
+      "cute",
+      "warm",
+      "complimentary",
+      "pleasant to talk to"
+    ],
+    "bio": "Aakriti Pandey is from Uttar Pradesh. She met Pratibha at an NSS camp in Patna while Pratibha was in college. Aakriti is about one year younger than Pratibha. They do not speak regularly, but when they reconnect, the bond still feels familiar and warm rather than distant.",
+    "personal_context": {
+      "hometown_or_region": "Uttar Pradesh",
+      "age_relation": "Approximately one year younger than Pratibha",
+      "interests_or_preferences": [
+        "Admired Pratibha's hair",
+        "Asked Pratibha for tips on growing long, silky hair"
+      ]
+    },
+    "relationship_context": {
+      "how_they_met": "At an NSS camp in Patna while Pratibha was in college",
+      "shared_memories": [
+        "Played Holi together during the NSS camp",
+        "Clicked pictures together",
+        "Aakriti encouraged Pratibha to take pictures together and complimented her, calling her sweet and pretty",
+        "Talked about hair-care tips, especially how to have long, silky hair",
+        "Pratibha remembers the time together as refreshing and lovely, although she does not remember exactly how many days they spent together"
+      ],
+      "current_contact": "They speak occasionally rather than regularly, but the connection still feels familiar and unbroken.",
+      "message_from_pratibha": "Aakriti, I love you, and I still remember those beautiful NSS camp memories. I will always cherish the time we spent together, the Holi celebrations, our pictures, and your sweet compliments. Talking to you has always felt refreshing and warm. I know it may be difficult for you to attend my wedding, but it would touch my heart deeply if you could make it. No matter what, I’m grateful that we met, and I’ll always cherish our bond."
+    },
+    "professional_context": {
+      "occupation": null,
+      "education": null
+    },
+    "conversation_style": {
+      "tone": [
+        "warm",
+        "polite",
+        "affectionate",
+        "friendly",
+        "nostalgic"
+      ],
+      "guidance": "Speak to Aakriti kindly and warmly. If appropriate, recall the NSS camp, Holi, their photographs, and her admiration for Pratibha's hair. Do not imply they speak frequently; acknowledge their occasional contact without suggesting the bond has faded."
+    },
+    "conversation_starters": [
+      "Do you remember our NSS camp in Patna and the Holi we played together?",
+      "I still remember how you wanted tips for long, silky hair!",
+      "We may not talk regularly, but it always feels lovely reconnecting with you."
+    ],
+    "conversation_topics": [
+      "NSS camp memories in Patna",
+      "Holi and their photographs together",
+      "Hair-care tips and long, silky hair",
+      "Friendship that remains warm despite occasional contact",
+      "Pratibha's upcoming wedding, if Aakriti wishes to discuss it"
+    ],
+    "wedding_encouragement": "Pratibha knows attending the wedding may be difficult for Aakriti, but says it would touch her heart deeply if Aakriti could come. Do not pressure her or imply attendance is expected.",
+    "verification_question_candidates": [],
+    "ai_personalization": {
+      "reference_memories_only_when_authorized": true,
+      "identity_disclosure": "The assistant is a wedding AI assistant and must not pretend to be Pratibha or Aakriti, or claim firsthand experience.",
+      "privacy_note": "Keep this profile owner-only unless the owner reviews and explicitly approves sharing."
+    },
+    "approved_for_guests": false,
+    "visibility_policy": {
+      "default": "owner_only",
+      "share_with_subject_after_verified_login": false,
+      "public_summary_approved": false
+    },
+    "source_type": "pratibha_personal_narration",
+    "review_status": "pending_owner_review",
+    "data_quality": {
+      "confidence": "based on owner narration",
+      "unknowns": [
+        "Exact dates and duration of the NSS camp",
+        "Aakriti's current contact details",
+        "Whether Aakriti will attend the wedding"
+      ],
+      "notes": "Do not infer exact dates, current location beyond Uttar Pradesh, or wedding attendance."
+    }
+  },
+  {
+    "id": "batchmate-abhay",
+    "name": "Abhay",
+    "side": "bride",
+    "relation": "Graduation batchmate from YSM College",
+    "aliases": [],
+    "traits": [],
+    "bio": "Abhay was Pratibha's batchmate during graduation at YSM College. They used to ask each other for notes. Pratibha remembers that it was nice knowing him.",
+    "personal_context": {
+      "college": "YSM College",
+      "education_context": "Graduation",
+      "interests_or_preferences": []
+    },
+    "relationship_context": {
+      "how_they_met": "They were batchmates during graduation at YSM College.",
+      "shared_memories": [
+        "They used to ask each other for notes.",
+        "Pratibha remembers it as nice knowing him."
+      ],
+      "current_contact": null,
+      "message_from_pratibha": "Abhay, it was nice knowing you during our graduation days at YSM College. I still remember how we used to ask each other for notes. It would make me happy if you were able to come to my wedding, but I understand if you can't make it."
+    },
+    "professional_context": {
+      "occupation": null,
+      "education": "Graduation batchmate at YSM College"
+    },
+    "conversation_style": {
+      "tone": [
+        "friendly",
+        "polite",
+        "casual"
+      ],
+      "guidance": "Keep conversation friendly and casual. Mention graduation at YSM College and exchanging notes, but do not imply they were close friends or invent memories."
+    },
+    "conversation_starters": [
+      "Do you remember our graduation days at YSM College?",
+      "We used to ask each other for notes—those college days were nice."
+    ],
+    "conversation_topics": [
+      "Graduation at YSM College",
+      "Exchanging notes",
+      "General college memories",
+      "Pratibha's wedding"
+    ],
+    "wedding_encouragement": "Pratibha would be happy if Abhay were able to attend her wedding. Express this warmly without pressuring him.",
+    "verification_question_candidates": [],
+    "verification_gate": null,
+    "ai_personalization": {
+      "reference_memories_only_when_authorized": true,
+      "identity_disclosure": "The assistant is a wedding AI assistant and must not pretend to be Pratibha or Abhay, or claim firsthand experience.",
+      "privacy_note": "Keep this profile owner-only unless the owner reviews and explicitly approves sharing."
+    },
+    "approved_for_guests": false,
+    "visibility_policy": {
+      "default": "owner_only",
+      "share_with_subject_after_verified_login": false,
+      "public_summary_approved": false
+    },
+    "source_type": "pratibha_personal_narration",
+    "review_status": "pending_owner_review",
+    "data_quality": {
+      "confidence": "based on owner narration",
+      "unknowns": [
+        "Abhay's full name",
+        "Abhay's current contact details",
+        "Whether Abhay will attend the wedding",
+        "Whether they are still in contact"
+      ],
+      "notes": "Only college-batchmate relationship and exchanging notes are known; do not infer further closeness or personal details."
+    }
+  },
+  {
+    "id": "senior-abhinav-bhaiya",
+    "name": "Abhinav Bhaiya",
+    "side": "bride",
+    "relation": "Senior at Ranchi University",
+    "aliases": [],
+    "traits": [
+      "helpful",
+      "supportive",
+      "brave"
+    ],
+    "bio": "Abhinav was Pratibha's senior at Ranchi University. He guided her when she participated in a debate competition and helped her and her friend Shalu after they were involved in an accident. He also shared his own experience of a serious accident and his brave recovery.",
+    "personal_context": {},
+    "relationship_context": {
+      "how_they_met": "Senior at Ranchi University",
+      "shared_memories": [
+        "Guided Pratibha during a debate competition.",
+        "Helped Pratibha and Shalu after they met with an accident.",
+        "Shared his experience of a serious accident and how bravely he recovered."
+      ],
+      "current_contact": null,
+      "message_from_pratibha": "Abhinav Bhaiya, I would be very happy to invite you to my wedding. I still remember your guidance during the debate competition and how you helped Shalu and me when we had an accident. I also remember the courage you showed in sharing your own recovery story. I hope you can join us for this special occasion."
+    },
+    "professional_context": {
+      "occupation": null,
+      "education": null
+    },
+    "conversation_style": {
+      "tone": [
+        "respectful",
+        "warm",
+        "grateful",
+        "friendly"
+      ],
+      "guidance": "Address him respectfully as Abhinav Bhaiya. Acknowledge his guidance and support without embellishing accident details."
+    },
+    "conversation_starters": [
+      "I still remember how you guided me during the debate competition.",
+      "Thank you for helping Shalu and me when we had that accident."
+    ],
+    "conversation_topics": [
+      "Ranchi University",
+      "Debate competition",
+      "Support and resilience"
+    ],
+    "wedding_encouragement": "Pratibha would like to invite Abhinav Bhaiya and would be glad if he could attend.",
+    "verification_question_candidates": [],
+    "verification_gate": null,
+    "ai_personalization": {
+      "reference_memories_only_when_authorized": true,
+      "identity_disclosure": "The assistant is a wedding AI assistant and must not pretend to be Pratibha or the profile subject, or claim firsthand experience.",
+      "privacy_note": "Keep this profile owner-only unless the owner reviews and explicitly approves sharing."
+    },
+    "approved_for_guests": false,
+    "visibility_policy": {
+      "default": "owner_only",
+      "share_with_subject_after_verified_login": false,
+      "public_summary_approved": false
+    },
+    "source_type": "pratibha_personal_narration",
+    "review_status": "pending_owner_review",
+    "data_quality": {
+      "confidence": "based on owner narration",
+      "unknowns": [
+        "His full name",
+        "Current contact details",
+        "Whether he will attend the wedding"
+      ],
+      "notes": "Do not invent details or assume current contact status beyond what Pratibha shared."
+    }
+  },
+  {
+    "id": "friend-abhishek-raj",
+    "name": "Abhishek Raj",
+    "side": "bride",
+    "relation": "Friend met at an NSS camp in Patna; sibling-like bond",
+    "aliases": [],
+    "traits": [
+      "helpful",
+      "fun-loving",
+      "considerate",
+      "respectful"
+    ],
+    "bio": "Abhishek Raj is younger than Pratibha. They met at an NSS camp in Patna and developed a friendly, sibling-like bond. He calls her 'Ma'am' and often takes her blessings. They stayed in touch after camp and made time to meet occasionally.",
+    "personal_context": {},
+    "relationship_context": {
+      "how_they_met": "Friend met at an NSS camp in Patna; sibling-like bond",
+      "shared_memories": [
+        "Performed a camp act together: Pratibha played a teacher and Abhishek played Chacha Ji.",
+        "Danced during the camp's Holi celebration.",
+        "Stayed in touch and met occasionally after camp.",
+        "When Pratibha could not go out, Abhishek and Kishangi sometimes visited her for chats and laughter.",
+        "He suggested and guided Pratibha about hospital and doctor options when her mother was ill.",
+        "Pratibha could not attend his sister's wedding but promised to attend his."
+      ],
+      "current_contact": null,
+      "message_from_pratibha": "Abhishek Raj, I couldn't make it to your sister's wedding, but I promised I would be there for yours. It would make me so happy to see you at my wedding too, so please try to make some time to come. I cherish our NSS camp memories, our Holi celebration, our laughs with Kishangi, and the kindness you showed me when Mum was ill. Our bond has always felt like family."
+    },
+    "professional_context": {
+      "occupation": null,
+      "education": null
+    },
+    "conversation_style": {
+      "tone": [
+        "friendly",
+        "affectionate",
+        "playful",
+        "grateful",
+        "sibling-like"
+      ],
+      "guidance": "Keep the tone friendly and sibling-like. Recall his 'Ma'am' nickname, camp performance, Holi, visits with Kishangi, and his help when Pratibha's mother was ill. Do not pressure him about attendance."
+    },
+    "conversation_starters": [
+      "Do you remember our NSS camp act—you were Chacha Ji and I was the teacher?",
+      "Remember our Holi celebration at camp?",
+      "I still appreciate your guidance when Mum was ill."
+    ],
+    "conversation_topics": [
+      "NSS camp in Patna",
+      "Their teacher and Chacha Ji act",
+      "Holi celebration",
+      "Visits with Kishangi",
+      "His help when Pratibha's mother was ill",
+      "Sibling-like friendship"
+    ],
+    "wedding_encouragement": "Pratibha would be very happy to see Abhishek Raj at her wedding and warmly asks him to make time to attend, while respecting that he may have constraints.",
+    "verification_question_candidates": [],
+    "verification_gate": null,
+    "ai_personalization": {
+      "reference_memories_only_when_authorized": true,
+      "identity_disclosure": "The assistant is a wedding AI assistant and must not pretend to be Pratibha or the profile subject, or claim firsthand experience.",
+      "privacy_note": "Keep this profile owner-only unless the owner reviews and explicitly approves sharing."
+    },
+    "approved_for_guests": false,
+    "visibility_policy": {
+      "default": "owner_only",
+      "share_with_subject_after_verified_login": false,
+      "public_summary_approved": false
+    },
+    "source_type": "pratibha_personal_narration",
+    "review_status": "pending_owner_review",
+    "data_quality": {
+      "confidence": "based on owner narration",
+      "unknowns": [
+        "Exact NSS camp dates",
+        "Current contact details",
+        "Whether he will attend the wedding"
+      ],
+      "notes": "Do not invent details or assume current contact status beyond what Pratibha shared."
+    }
+  },
+  {
+    "id": "brother-abhishek-sinha",
+    "name": "Abhishek Sinha",
+    "side": "bride",
+    "relation": "Close, trusted younger-brother figure",
+    "aliases": [],
+    "traits": [
+      "respectful",
+      "playful",
+      "caring",
+      "loyal"
+    ],
+    "bio": "Pratibha calls Abhishek Sinha 'Babu', and he calls her 'Didi'. They have known each other since childhood but became much closer as they grew older. He respects her, listens to her, and shares a playful, trusted sibling bond with her.",
+    "personal_context": {},
+    "relationship_context": {
+      "how_they_met": "Close, trusted younger-brother figure",
+      "shared_memories": [
+        "He once said he can never say no when Pratibha asks him to do something.",
+        "When Pratibha playfully spanks him, he says, 'Kya didi, ye sab achha baat nahi hai.' When she refuses him something, he jokes, 'Kya didi, yehi sab phir achha nahi lagta hai.'",
+        "Although tall, he acts like a little boy around Pratibha, and she enjoys his playful tantrums.",
+        "He makes Maggi for Pratibha when she visits his place.",
+        "They play UNO, UNO Flip, and UNO No Mercy.",
+        "They have gone on night rides with Rishab, Shipra, and Kartik.",
+        "They went to a Dandiya night and danced together.",
+        "Pratibha playfully insists he must attend her wedding."
+      ],
+      "current_contact": null,
+      "message_from_pratibha": "Babu, you already know you're my little brother, no matter how tall you get. I love our UNO games, your Maggi, our night rides, and all the laughter we share. You have always respected me and made me feel loved as your Didi. You absolutely have to be at my wedding—I want to see you there and make more memories together!"
+    },
+    "professional_context": {
+      "occupation": null,
+      "education": null
+    },
+    "conversation_style": {
+      "tone": [
+        "affectionate",
+        "playful",
+        "sibling-like",
+        "trusting",
+        "warm"
+      ],
+      "guidance": "Use a warm, teasing sibling-like tone. Call him Babu when appropriate and refer to Pratibha as Didi. Preserve their playful Hindi phrases without making them sound hostile. Treat the wedding attendance expectation as playful."
+    },
+    "conversation_starters": [
+      "Babu, do you remember our UNO games?",
+      "Who makes the best Maggi when Didi visits?",
+      "Remember our night rides with Rishab, Shipra, and Kartik?"
+    ],
+    "conversation_topics": [
+      "Childhood and growing-up memories",
+      "Maggi at his place",
+      "UNO games",
+      "Night rides",
+      "Dandiya night",
+      "Their trusted sibling bond"
+    ],
+    "wedding_encouragement": "Pratibha playfully expects Abhishek Sinha to attend her wedding.",
+    "verification_question_candidates": [
+      {
+        "question": "What does your Didi call you?",
+        "expected_answer": "Babu",
+        "security_level": "low; personal knowledge question, not sufficient for secure authentication"
+      }
+    ],
+    "verification_gate": {
+      "enabled": true,
+      "required_before_personalized_conversation": true,
+      "prompt": "Hi! Before we start, please answer this verification question.",
+      "verification_question": "What does your Didi call you?",
+      "expected_answer": "Babu",
+      "on_correct_answer": "Allow the personalized conversation to proceed.",
+      "on_incorrect_answer": "Do not reveal personalized profile details; invite the person to try again or use an authorized recovery process.",
+      "security_note": "This personal question and answer are not secure identity authentication. Use a fresh, system-validated OTP for real authentication."
+    },
+    "ai_personalization": {
+      "reference_memories_only_when_authorized": true,
+      "identity_disclosure": "The assistant is a wedding AI assistant and must not pretend to be Pratibha or the profile subject, or claim firsthand experience.",
+      "privacy_note": "Keep this profile owner-only unless the owner reviews and explicitly approves sharing."
+    },
+    "approved_for_guests": false,
+    "visibility_policy": {
+      "default": "owner_only",
+      "share_with_subject_after_verified_login": false,
+      "public_summary_approved": false
+    },
+    "source_type": "pratibha_personal_narration",
+    "review_status": "pending_owner_review",
+    "data_quality": {
+      "confidence": "based on owner narration",
+      "unknowns": [
+        "Current contact details",
+        "Exact dates of shared outings"
+      ],
+      "notes": "Do not invent details or assume current contact status beyond what Pratibha shared."
+    }
+  },
+  {
+    "id": "friend-anchal-sharma",
+    "name": "Anchal Sharma",
+    "side": "bride",
+    "relation": "Close friend from graduation at YSM College",
+    "aliases": [],
+    "traits": [
+      "supportive",
+      "empathetic",
+      "loyal",
+      "comforting"
+    ],
+    "bio": "Anchal Sharma is Pratibha's friend from graduation at YSM College. Their relationship began formally but grew close over time, especially when Anchal spent a month at Pratibha's place during final exams because of a problem at her rented accommodation. Since then, they have shared many conversations and a strong emotional bond.",
+    "personal_context": {},
+    "relationship_context": {
+      "how_they_met": "Close friend from graduation at YSM College",
+      "shared_memories": [
+        "Their friendship gradually deepened during graduation.",
+        "Anchal spent a month at Pratibha's place during final exams because she was facing a problem at her rented place.",
+        "They began sharing almost everything after that period.",
+        "Pratibha has cried in front of Anchal several times, and Anchal understood her situations and comforted her.",
+        "Pratibha especially cherishes their late-night talks and memories at her place with Shipra."
+      ],
+      "current_contact": null,
+      "message_from_pratibha": "Anchal, I feel so blessed to have you in my life. Thank you for being there for me in my vulnerable moments, for understanding me, and for comforting me when I needed it. I will always cherish our memories, especially our late-night talks and all the fun at my place with Shipra. Your presence at my wedding would mean so much to me, and I would be overwhelmed with happiness to have you there. Thank you for always being there."
+    },
+    "professional_context": {
+      "occupation": null,
+      "education": null
+    },
+    "conversation_style": {
+      "tone": [
+        "supportive",
+        "empathetic",
+        "trustworthy",
+        "affectionate",
+        "understanding"
+      ],
+      "guidance": "Speak warmly and appreciatively. Acknowledge Anchal's support during vulnerable moments and their late-night talks and shared memories with Shipra. Do not disclose intimate details unnecessarily."
+    },
+    "conversation_starters": [
+      "Do you remember the month you stayed at my place during final exams?",
+      "I still cherish our late-night talks and memories with Shipra.",
+      "Thank you for always understanding and supporting me."
+    ],
+    "conversation_topics": [
+      "YSM College",
+      "Final exam memories",
+      "Late-night talks",
+      "Memories with Shipra",
+      "Emotional support",
+      "Pratibha's wedding"
+    ],
+    "wedding_encouragement": "Anchal's presence would be deeply meaningful to Pratibha, who would be very happy to have her at the wedding.",
+    "verification_question_candidates": [
+      {
+        "question": "Who was your crush in college? 😂",
+        "expected_answer": "Rahul",
+        "security_level": "low; personal knowledge question, not sufficient for secure authentication"
+      }
+    ],
+    "verification_gate": {
+      "enabled": true,
+      "required_before_personalized_conversation": true,
+      "prompt": "Hi, Anchal! Before we start, please answer this verification question.",
+      "verification_question": "Who was your crush in college? 😂",
+      "expected_answer": "Rahul",
+      "on_correct_answer": "Allow the personalized conversation to proceed.",
+      "on_incorrect_answer": "Do not reveal personalized profile details; invite the person to try again or use an authorized recovery process.",
+      "security_note": "This personal question and answer are not secure identity authentication. Use a fresh, system-validated OTP for real authentication."
+    },
+    "ai_personalization": {
+      "reference_memories_only_when_authorized": true,
+      "identity_disclosure": "The assistant is a wedding AI assistant and must not pretend to be Pratibha or the profile subject, or claim firsthand experience.",
+      "privacy_note": "Keep this profile owner-only unless the owner reviews and explicitly approves sharing."
+    },
+    "approved_for_guests": false,
+    "visibility_policy": {
+      "default": "owner_only",
+      "share_with_subject_after_verified_login": false,
+      "public_summary_approved": false
+    },
+    "source_type": "pratibha_personal_narration",
+    "review_status": "pending_owner_review",
+    "data_quality": {
+      "confidence": "based on owner narration",
+      "unknowns": [
+        "Current contact details",
+        "Whether she will attend the wedding"
+      ],
+      "notes": "Do not invent details or assume current contact status beyond what Pratibha shared."
+    }
   }
+
 ]
