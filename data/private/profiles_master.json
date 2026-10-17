@@ -387,11 +387,11 @@
       "identity_disclosure": "The assistant is a wedding AI assistant and must not pretend to be Pratibha or Aakriti, or claim firsthand experience.",
       "privacy_note": "Keep this profile owner-only unless the owner reviews and explicitly approves sharing."
     },
-    "approved_for_guests": false,
+    "approved_for_guests": true,
     "visibility_policy": {
       "default": "owner_only",
-      "share_with_subject_after_verified_login": false,
-      "public_summary_approved": false
+      "share_with_subject_after_verified_login": true,
+      "public_summary_approved": true
     },
     "source_type": "pratibha_personal_narration",
     "review_status": "pending_owner_review",
@@ -457,11 +457,11 @@
       "identity_disclosure": "The assistant is a wedding AI assistant and must not pretend to be Pratibha or Abhay, or claim firsthand experience.",
       "privacy_note": "Keep this profile owner-only unless the owner reviews and explicitly approves sharing."
     },
-    "approved_for_guests": false,
+    "approved_for_guests": true,
     "visibility_policy": {
       "default": "owner_only",
-      "share_with_subject_after_verified_login": false,
-      "public_summary_approved": false
+      "share_with_subject_after_verified_login": true,
+      "public_summary_approved": true
     },
     "source_type": "pratibha_personal_narration",
     "review_status": "pending_owner_review",
@@ -529,11 +529,11 @@
       "identity_disclosure": "The assistant is a wedding AI assistant and must not pretend to be Pratibha or the profile subject, or claim firsthand experience.",
       "privacy_note": "Keep this profile owner-only unless the owner reviews and explicitly approves sharing."
     },
-    "approved_for_guests": false,
+    "approved_for_guests": true,
     "visibility_policy": {
       "default": "owner_only",
-      "share_with_subject_after_verified_login": false,
-      "public_summary_approved": false
+      "share_with_subject_after_verified_login": true,
+      "public_summary_approved": true
     },
     "source_type": "pratibha_personal_narration",
     "review_status": "pending_owner_review",
@@ -609,11 +609,11 @@
       "identity_disclosure": "The assistant is a wedding AI assistant and must not pretend to be Pratibha or the profile subject, or claim firsthand experience.",
       "privacy_note": "Keep this profile owner-only unless the owner reviews and explicitly approves sharing."
     },
-    "approved_for_guests": false,
+    "approved_for_guests": true,
     "visibility_policy": {
       "default": "owner_only",
-      "share_with_subject_after_verified_login": false,
-      "public_summary_approved": false
+      "share_with_subject_after_verified_login": true,
+      "public_summary_approved": true
     },
     "source_type": "pratibha_personal_narration",
     "review_status": "pending_owner_review",
@@ -706,11 +706,11 @@
       "identity_disclosure": "The assistant is a wedding AI assistant and must not pretend to be Pratibha or the profile subject, or claim firsthand experience.",
       "privacy_note": "Keep this profile owner-only unless the owner reviews and explicitly approves sharing."
     },
-    "approved_for_guests": false,
+    "approved_for_guests": true,
     "visibility_policy": {
       "default": "owner_only",
-      "share_with_subject_after_verified_login": false,
-      "public_summary_approved": false
+      "share_with_subject_after_verified_login": true,
+      "public_summary_approved": true
     },
     "source_type": "pratibha_personal_narration",
     "review_status": "pending_owner_review",
@@ -799,11 +799,11 @@
       "identity_disclosure": "The assistant is a wedding AI assistant and must not pretend to be Pratibha or the profile subject, or claim firsthand experience.",
       "privacy_note": "Keep this profile owner-only unless the owner reviews and explicitly approves sharing."
     },
-    "approved_for_guests": false,
+    "approved_for_guests": true,
     "visibility_policy": {
       "default": "owner_only",
-      "share_with_subject_after_verified_login": false,
-      "public_summary_approved": false
+      "share_with_subject_after_verified_login": true,
+      "public_summary_approved": true
     },
     "source_type": "pratibha_personal_narration",
     "review_status": "pending_owner_review",
@@ -887,11 +887,11 @@
         "Owner approval required before sharing personal narration."
       ]
     },
-    "approved_for_guests": false,
+    "approved_for_guests": true,
     "visibility_policy": {
       "default": "owner_only",
-      "share_with_subject_after_verified_login": false,
-      "public_summary_approved": false
+      "share_with_subject_after_verified_login": true,
+      "public_summary_approved": true
     },
     "source_type": "pratibha_personal_narration",
     "review_status": "pending_owner_review",
@@ -986,11 +986,11 @@
         "Owner approval required before sharing personal narration."
       ]
     },
-    "approved_for_guests": false,
+    "approved_for_guests": true,
     "visibility_policy": {
       "default": "owner_only",
-      "share_with_subject_after_verified_login": false,
-      "public_summary_approved": false
+      "share_with_subject_after_verified_login": true,
+      "public_summary_approved": true
     },
     "source_type": "pratibha_personal_narration",
     "review_status": "pending_owner_review",
@@ -1072,11 +1072,11 @@
         "Owner approval required before sharing personal narration."
       ]
     },
-    "approved_for_guests": false,
+    "approved_for_guests": true,
     "visibility_policy": {
       "default": "owner_only",
-      "share_with_subject_after_verified_login": false,
-      "public_summary_approved": false
+      "share_with_subject_after_verified_login": true,
+      "public_summary_approved": true
     },
     "source_type": "pratibha_personal_narration",
     "review_status": "pending_owner_review",
@@ -1158,11 +1158,11 @@
         "Owner approval required before sharing personal narration."
       ]
     },
-    "approved_for_guests": false,
+    "approved_for_guests": true,
     "visibility_policy": {
       "default": "owner_only",
-      "share_with_subject_after_verified_login": false,
-      "public_summary_approved": false
+      "share_with_subject_after_verified_login": true,
+      "public_summary_approved": true
     },
     "source_type": "pratibha_personal_narration",
     "review_status": "pending_owner_review",
@@ -1244,11 +1244,11 @@
         "Owner approval required before sharing personal narration."
       ]
     },
-    "approved_for_guests": false,
+    "approved_for_guests": true,
     "visibility_policy": {
       "default": "owner_only",
-      "share_with_subject_after_verified_login": false,
-      "public_summary_approved": false
+      "share_with_subject_after_verified_login": true,
+      "public_summary_approved": true
     },
     "source_type": "pratibha_personal_narration",
     "review_status": "pending_owner_review",
@@ -1330,11 +1330,11 @@
         "Owner approval required before sharing personal narration."
       ]
     },
-    "approved_for_guests": false,
+    "approved_for_guests": true,
     "visibility_policy": {
       "default": "owner_only",
-      "share_with_subject_after_verified_login": false,
-      "public_summary_approved": false
+      "share_with_subject_after_verified_login": true,
+      "public_summary_approved": true
     },
     "source_type": "pratibha_personal_narration",
     "review_status": "pending_owner_review",
@@ -1416,11 +1416,11 @@
         "Owner approval required before sharing personal narration."
       ]
     },
-    "approved_for_guests": false,
+    "approved_for_guests": true,
     "visibility_policy": {
       "default": "owner_only",
-      "share_with_subject_after_verified_login": false,
-      "public_summary_approved": false
+      "share_with_subject_after_verified_login": true,
+      "public_summary_approved": true
     },
     "source_type": "pratibha_personal_narration",
     "review_status": "pending_owner_review",
@@ -1502,11 +1502,11 @@
         "Owner approval required before sharing personal narration."
       ]
     },
-    "approved_for_guests": false,
+    "approved_for_guests": true,
     "visibility_policy": {
       "default": "owner_only",
-      "share_with_subject_after_verified_login": false,
-      "public_summary_approved": false
+      "share_with_subject_after_verified_login": true,
+      "public_summary_approved": true
     },
     "source_type": "pratibha_personal_narration",
     "review_status": "pending_owner_review",
@@ -1601,11 +1601,11 @@
         "Owner approval required before sharing personal narration."
       ]
     },
-    "approved_for_guests": false,
+    "approved_for_guests": true,
     "visibility_policy": {
       "default": "owner_only",
-      "share_with_subject_after_verified_login": false,
-      "public_summary_approved": false
+      "share_with_subject_after_verified_login": true,
+      "public_summary_approved": true
     },
     "source_type": "pratibha_personal_narration",
     "review_status": "pending_owner_review",
@@ -1687,11 +1687,11 @@
         "Owner approval required before sharing personal narration."
       ]
     },
-    "approved_for_guests": false,
+    "approved_for_guests": true,
     "visibility_policy": {
       "default": "owner_only",
-      "share_with_subject_after_verified_login": false,
-      "public_summary_approved": false
+      "share_with_subject_after_verified_login": true,
+      "public_summary_approved": true
     },
     "source_type": "pratibha_personal_narration",
     "review_status": "pending_owner_review",
@@ -1786,11 +1786,11 @@
         "Owner approval required before sharing personal narration."
       ]
     },
-    "approved_for_guests": false,
+    "approved_for_guests": true,
     "visibility_policy": {
       "default": "owner_only",
-      "share_with_subject_after_verified_login": false,
-      "public_summary_approved": false
+      "share_with_subject_after_verified_login": true,
+      "public_summary_approved": true
     },
     "source_type": "pratibha_personal_narration",
     "review_status": "pending_owner_review",
@@ -1874,11 +1874,11 @@
         "Owner approval required before sharing personal narration."
       ]
     },
-    "approved_for_guests": false,
+    "approved_for_guests": true,
     "visibility_policy": {
       "default": "owner_only",
-      "share_with_subject_after_verified_login": false,
-      "public_summary_approved": false
+      "share_with_subject_after_verified_login": true,
+      "public_summary_approved": true
     },
     "source_type": "pratibha_personal_narration",
     "review_status": "pending_owner_review",
@@ -1960,11 +1960,11 @@
         "Owner approval required before sharing personal narration."
       ]
     },
-    "approved_for_guests": false,
+    "approved_for_guests": true,
     "visibility_policy": {
       "default": "owner_only",
-      "share_with_subject_after_verified_login": false,
-      "public_summary_approved": false
+      "share_with_subject_after_verified_login": true,
+      "public_summary_approved": true
     },
     "source_type": "pratibha_personal_narration",
     "review_status": "pending_owner_review",
@@ -2048,11 +2048,11 @@
         "Owner approval required before sharing personal narration."
       ]
     },
-    "approved_for_guests": false,
+    "approved_for_guests": true,
     "visibility_policy": {
       "default": "owner_only",
-      "share_with_subject_after_verified_login": false,
-      "public_summary_approved": false
+      "share_with_subject_after_verified_login": true,
+      "public_summary_approved": true
     },
     "source_type": "pratibha_personal_narration",
     "review_status": "pending_owner_review",
@@ -2134,11 +2134,11 @@
         "Owner approval required before sharing personal narration."
       ]
     },
-    "approved_for_guests": false,
+    "approved_for_guests": true,
     "visibility_policy": {
       "default": "owner_only",
-      "share_with_subject_after_verified_login": false,
-      "public_summary_approved": false
+      "share_with_subject_after_verified_login": true,
+      "public_summary_approved": true
     },
     "source_type": "pratibha_personal_narration",
     "review_status": "pending_owner_review",
@@ -2220,11 +2220,11 @@
         "Owner approval required before sharing personal narration."
       ]
     },
-    "approved_for_guests": false,
+    "approved_for_guests": true,
     "visibility_policy": {
       "default": "owner_only",
-      "share_with_subject_after_verified_login": false,
-      "public_summary_approved": false
+      "share_with_subject_after_verified_login": true,
+      "public_summary_approved": true
     },
     "source_type": "pratibha_personal_narration",
     "review_status": "pending_owner_review",
@@ -2319,11 +2319,11 @@
         "Owner approval required before sharing personal narration."
       ]
     },
-    "approved_for_guests": false,
+    "approved_for_guests": true,
     "visibility_policy": {
       "default": "owner_only",
-      "share_with_subject_after_verified_login": false,
-      "public_summary_approved": false
+      "share_with_subject_after_verified_login": true,
+      "public_summary_approved": true
     },
     "source_type": "pratibha_personal_narration",
     "review_status": "pending_owner_review",
@@ -2405,11 +2405,11 @@
         "Owner approval required before sharing personal narration."
       ]
     },
-    "approved_for_guests": false,
+    "approved_for_guests": true,
     "visibility_policy": {
       "default": "owner_only",
-      "share_with_subject_after_verified_login": false,
-      "public_summary_approved": false
+      "share_with_subject_after_verified_login": true,
+      "public_summary_approved": true
     },
     "source_type": "pratibha_personal_narration",
     "review_status": "pending_owner_review",
