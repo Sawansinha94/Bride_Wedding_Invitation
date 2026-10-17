@@ -2419,7 +2419,995 @@
       "ambiguities": [],
       "requires_confirmation": []
     }
+  },
+  {
+    "id": "bride-friend-divsheen",
+    "name": "Divsheen",
+    "side": "bride",
+    "relation": "Friend from Ranchi University master's program",
+    "aliases": ["Divshin"],
+    "traits": ["Polite", "Friendly", "Humorous", "Sociable"],
+    "bio": "Divsheen met Pratibha at Ranchi University while they were pursuing their master's degrees. They shared two memorable years filled with celebrations, laughter, friendship, and spontaneous adventures. Pratibha fondly remembers their time together and would love Divsheen to attend her wedding.",
+    "personal_context": {
+      "education": "Pursued a master's degree at Ranchi University",
+      "duration_of_shared_experience": "Two years"
+    },
+    "relationship_context": {
+      "relationship_to_couple": "Friend of the bride",
+      "closeness": "Shared a warm friendship during their master's program",
+      "shared_experiences": [
+        "Holi celebrations",
+        "A pizza party",
+        "Dancing together in the rain",
+        "Short scooty rides",
+        "Chit-chat and quiet laughter during classes",
+        "Finding ways to leave Harshita Ma'am's class",
+        "Struggling to keep up with Poonam Ma'am's dictated notes"
+      ],
+      "memorable_stories": [
+        {
+          "event": "Birthday cake surprise",
+          "details": "Divsheen surprised Pratibha on her birthday by bringing her a small cake. Pratibha remembers it as beautiful and tasty, although it had become extremely hard after being kept in the freezer for a long time. They managed to enjoy some of it and shared the remaining cake with people nearby in the parking lot.",
+          "type": "Shared memory"
+        }
+      ],
+      "important_people": ["Harshita Ma'am", "Poonam Ma'am"],
+      "special_significance": "Divsheen is associated with some of Pratibha's happiest memories from her master's years."
+    },
+    "professional_context": {
+      "organization": "Ranchi University",
+      "role": "Master's student during the shared period",
+      "team": null,
+      "work_relationship": null
+    },
+    "conversation_style": {
+      "tone": "Warm and friendly",
+      "humor": "Lighthearted humor and shared college anecdotes",
+      "formality": "Informal and affectionate",
+      "preferred_language": null,
+      "communication_guidelines": [
+        "Use a friendly greeting.",
+        "Refer to shared university memories naturally.",
+        "Avoid pretending the AI personally experienced these events."
+      ]
+    },
+    "conversation_starters": [
+      "Do you remember our Holi celebration at Ranchi University?",
+      "Have you thought about our rainy-day dance and scooty rides?",
+      "Do you remember the birthday cake that became almost impossible to cut?"
+    ],
+    "conversation_topics": {
+      "recommended": ["University memories", "Holi", "Pizza parties", "Birthday surprises", "Classroom anecdotes", "Wedding plans"],
+      "avoid": [],
+      "follow_up_questions": ["Which university memory makes you laugh the most?", "Will you be able to join Pratibha for her wedding?"]
+    },
+    "wedding_encouragement": {
+      "approach": "Warm, personal invitation emphasizing their shared memories",
+      "attendance_importance": "Pratibha would love Divsheen's presence",
+      "invite_with": [],
+      "special_arrangements": [],
+      "known_constraints": [],
+      "rsvp_status": null
+    },
+    "verification_question_candidates": [],
+    "ai_personalization": {
+      "greeting_suggestions": ["Hello, Divsheen! Pratibha has such lovely memories of your university days together."],
+      "personalization_points": ["The birthday cake surprise", "Rain dancing", "Scooty rides", "Holi and classroom laughter"],
+      "emotional_tone": "Affectionate, nostalgic, cheerful",
+      "safe_memory_references": ["Shared university experiences, subject to guest-facing approval"],
+      "conversation_boundaries": ["Do not disclose owner-only details."]
+    },
+    "approved_for_guests": false,
+    "visibility_policy": {
+      "default": "owner_only",
+      "share_with_subject_after_verified_login": false,
+      "public_summary_approved": false
+    },
+    "source_type": "pratibha_personal_narration",
+    "review_status": "pending_owner_review",
+    "data_quality": {
+      "confidence": "medium",
+      "missing_information": ["Preferred name spelling", "Preferred language", "Current contact details, if needed for invitations"],
+      "ambiguities": ["The name was pronounced as Divsheen and also rendered as Divshin; confirm the correct spelling."],
+      "requires_confirmation": ["Confirm the guest's name spelling."]
+    }
+  },
+  {
+    "id": "bride-friend-ishika",
+    "name": "Ishika",
+    "side": "bride",
+    "relation": "Childhood and school friend",
+    "aliases": [],
+    "traits": ["Longstanding friend", "Conversational", "Emotionally connected", "Shared sense of humor"],
+    "bio": "Pratibha and Ishika have known each other since eighth standard at Westcott. Even when they attended different schools for their plus-two studies, they maintained their friendship through long weekend phone calls. They discussed daily events, Korean dramas, favorite crushes, and dates, and continued sharing stories when Pratibha moved to a hostel.",
+    "personal_context": {
+      "friendship_started": "Eighth standard",
+      "school_association": "Westcott",
+      "plus_two": "Attended different schools"
+    },
+    "relationship_context": {
+      "relationship_to_couple": "Childhood friend of the bride",
+      "closeness": "Longstanding, emotionally meaningful friendship",
+      "shared_experiences": [
+        "School memories",
+        "Long weekend phone calls during plus two",
+        "Sharing personal updates for hours",
+        "Discussing Korean dramas, favorite crushes, and dates",
+        "Ishika recounting drama episodes Pratibha missed while staying at a hostel"
+      ],
+      "memorable_stories": [
+        {
+          "event": "Weekend calls and drama recaps",
+          "details": "Despite studying at different schools, they regularly spoke for hours on weekends. When Pratibha was at the hostel and could not watch certain Korean dramas, Ishika narrated the missed episodes and scenes, and they giggled together.",
+          "type": "Shared memory"
+        }
+      ],
+      "important_people": [],
+      "special_significance": "Pratibha treasures their childhood bond and wants to preserve every memory they have shared."
+    },
+    "professional_context": {
+      "organization": "Westcott",
+      "role": "Schoolmates",
+      "team": null,
+      "work_relationship": null
+    },
+    "conversation_style": {
+      "tone": "Warm, familiar, nostalgic",
+      "humor": "Playful jokes and shared references",
+      "formality": "Informal",
+      "preferred_language": null,
+      "communication_guidelines": ["Recognize their long history without overstating details.", "Use shared memories as natural conversation starters."]
+    },
+    "conversation_starters": [
+      "Do you remember our endless weekend phone calls?",
+      "Which Korean drama did we discuss the most?",
+      "Do you remember telling Pratibha all the episodes she missed at the hostel?"
+    ],
+    "conversation_topics": {
+      "recommended": ["School days", "Plus-two memories", "Korean dramas", "Crushes and dates as shared nostalgic topics", "Wedding plans"],
+      "avoid": [],
+      "follow_up_questions": ["Which memory from school do you cherish most?", "Will you be joining Pratibha on her wedding day?"]
+    },
+    "wedding_encouragement": {
+      "approach": "Affectionate invitation highlighting their lifelong friendship",
+      "attendance_importance": "Pratibha would love Ishika's presence",
+      "invite_with": [],
+      "special_arrangements": [],
+      "known_constraints": [],
+      "rsvp_status": null
+    },
+    "verification_question_candidates": [],
+    "ai_personalization": {
+      "greeting_suggestions": ["Hi, Ishika! Pratibha still treasures those long weekend conversations you shared."],
+      "personalization_points": ["Their friendship since eighth standard", "Korean drama recaps", "Long phone calls"],
+      "emotional_tone": "Affectionate and nostalgic",
+      "safe_memory_references": ["Shared childhood and school memories, subject to approval"],
+      "conversation_boundaries": ["Do not reveal private profile information without authorization."]
+    },
+    "approved_for_guests": false,
+    "visibility_policy": {
+      "default": "owner_only",
+      "share_with_subject_after_verified_login": false,
+      "public_summary_approved": false
+    },
+    "source_type": "pratibha_personal_narration",
+    "review_status": "pending_owner_review",
+    "data_quality": {
+      "confidence": "high",
+      "missing_information": ["Current contact details, if needed for invitations"],
+      "ambiguities": ["The exact dates or years of their school friendship were not provided."],
+      "requires_confirmation": []
+    }
+  },
+  {
+    "id": "bride-friend-gaurav-bhaiya",
+    "name": "Gaurav",
+    "side": "bride",
+    "relation": "Older-brother figure and friend",
+    "aliases": ["Gaurav Bhaiya"],
+    "traits": ["Smart", "Intelligent", "Playful", "Caring", "Supportive"],
+    "bio": "Pratibha came to know Gaurav Bhaiya through Shipra. They share a playful, childlike bond. She sees him as an older-brother figure who teaches and guides them, scolds them when they are wrong, and pampers them with treats. Pratibha fondly recalls his search for a suitable romantic partner and is happy that he has found someone. She wishes them well together.",
+    "personal_context": {
+      "introduced_through": "Shipra",
+      "relationship_role": "Older-brother figure"
+    },
+    "relationship_context": {
+      "relationship_to_couple": "Friend and older-brother figure to the bride",
+      "closeness": "Warm and playful",
+      "shared_experiences": ["Playful interactions", "Guidance and affectionate scolding", "Receiving treats from him"],
+      "memorable_stories": ["Pratibha recalls his search for a partner and is happy that he has found someone she hopes will make him happy."],
+      "important_people": ["Shipra", "His partner, whose name was not provided"],
+      "special_significance": "Pratibha values his guidance, care, and playful relationship with her."
+    },
+    "professional_context": {
+      "organization": null,
+      "role": null,
+      "team": null,
+      "work_relationship": null
+    },
+    "conversation_style": {
+      "tone": "Respectful, affectionate, playful",
+      "humor": "Light teasing and childish banter",
+      "formality": "Respectful but familiar",
+      "preferred_language": null,
+      "communication_guidelines": ["Use Bhaiya respectfully.", "Keep romantic references light and positive."]
+    },
+    "conversation_starters": ["How have you been, Gaurav Bhaiya?", "How are things going with your partner?", "Will you be able to join Pratibha's wedding?"],
+    "conversation_topics": {
+      "recommended": ["Shared playful memories", "His guidance and treats", "General well-wishes", "Wedding plans"],
+      "avoid": ["Intrusive questions about his relationship"],
+      "follow_up_questions": ["How have things been lately?", "Will you be able to attend the wedding ceremony?"]
+    },
+    "wedding_encouragement": {
+      "approach": "Warm invitation from someone who values him as an older-brother figure",
+      "attendance_importance": "Pratibha would be extremely happy if he attended",
+      "invite_with": [],
+      "special_arrangements": [],
+      "known_constraints": [],
+      "rsvp_status": null
+    },
+    "verification_question_candidates": [],
+    "ai_personalization": {
+      "greeting_suggestions": ["Hello, Gaurav Bhaiya! Pratibha sends her warm wishes."],
+      "personalization_points": ["His guidance", "His treats", "Their playful bond"],
+      "emotional_tone": "Affectionate and respectful",
+      "safe_memory_references": ["Shared playful memories, subject to approval"],
+      "conversation_boundaries": ["Do not invent details about his partner or relationship."]
+    },
+    "approved_for_guests": false,
+    "visibility_policy": {
+      "default": "owner_only",
+      "share_with_subject_after_verified_login": false,
+      "public_summary_approved": false
+    },
+    "source_type": "pratibha_personal_narration",
+    "review_status": "pending_owner_review",
+    "data_quality": {
+      "confidence": "high",
+      "missing_information": ["Full name", "Preferred language"],
+      "ambiguities": ["His partner's name and the nature or stage of their relationship were not specified."],
+      "requires_confirmation": []
+    }
+  },
+  {
+    "id": "bride-friend-kalpana",
+    "name": "Kalpana",
+    "side": "bride",
+    "relation": "Close friend from graduation",
+    "aliases": [],
+    "traits": ["Sweet", "Beautiful", "Quiet", "Humorous", "Kind-hearted", "Supportive", "Understanding"],
+    "bio": "Pratibha met Kalpana during graduation at YSM. They have maintained a close and supportive bond ever since. Pratibha describes her as sweet, quiet, humorous, and pure-hearted. They stand by one another when needed and understand each other during vulnerable moments. Their time together is filled with spontaneous conversations and laughter.",
+    "personal_context": {
+      "education": "Graduation at YSM",
+      "friendship_started": "During graduation"
+    },
+    "relationship_context": {
+      "relationship_to_couple": "Close friend of the bride",
+      "closeness": "Close and mutually supportive",
+      "shared_experiences": [
+        "Lunch outings with Sakshi, often including chicken biryani",
+        "Kalpana visiting Pratibha during Chhat Puja",
+        "Spontaneous conversations and laughter",
+        "Supporting each other during vulnerable times"
+      ],
+      "memorable_stories": ["Kalpana visited Pratibha's home during Chhat Puja, where they spent enjoyable time together.", "Pratibha remembers their chicken-biryani lunches with Kalpana and Sakshi."],
+      "important_people": ["Sakshi"],
+      "special_significance": "Kalpana is a trusted friend who provides mutual understanding and companionship."
+    },
+    "professional_context": {
+      "organization": "YSM",
+      "role": "Graduation student during the shared period",
+      "team": null,
+      "work_relationship": null
+    },
+    "conversation_style": {
+      "tone": "Gentle, warm, affectionate",
+      "humor": "Light humor and spontaneous laughter",
+      "formality": "Informal and caring",
+      "preferred_language": null,
+      "communication_guidelines": ["Be considerate and gentle.", "Do not pressure her to discuss vulnerable experiences."]
+    },
+    "conversation_starters": ["Do you remember our chicken-biryani lunches with Sakshi?", "How have you been?", "Do you remember your visit during Chhat Puja?"],
+    "conversation_topics": {
+      "recommended": ["Graduation memories", "Lunch outings", "Chhat Puja", "Friendship", "Wedding plans"],
+      "avoid": ["Pressuring her to disclose vulnerable or private experiences"],
+      "follow_up_questions": ["Will you be able to join Pratibha on her wedding day?", "Which memory from YSM makes you smile most?"]
+    },
+    "wedding_encouragement": {
+      "approach": "Warm and personal invitation that emphasizes their close bond",
+      "attendance_importance": "Pratibha would be happiest if Kalpana attended",
+      "invite_with": [],
+      "special_arrangements": [],
+      "known_constraints": [],
+      "rsvp_status": null
+    },
+    "verification_question_candidates": [
+      {
+        "question": "What did Kalpana take from Pratibha?",
+        "expected_answer": "Thekua",
+        "purpose": "Owner-provided identity-check candidate only; not secure authentication",
+        "access_restriction": "Do not reveal the expected answer to the guest or use it to authorize private-data access."
+      }
+    ],
+    "ai_personalization": {
+      "greeting_suggestions": ["Hi, Kalpana! Pratibha sends you lots of love and warm wishes."],
+      "personalization_points": ["Chicken-biryani lunches", "Chhat Puja visit", "Their supportive friendship"],
+      "emotional_tone": "Warm, affectionate, reassuring",
+      "safe_memory_references": ["Approved shared social memories"],
+      "conversation_boundaries": ["Vulnerable experiences remain private unless specifically approved for sharing."]
+    },
+    "approved_for_guests": false,
+    "visibility_policy": {
+      "default": "owner_only",
+      "share_with_subject_after_verified_login": false,
+      "public_summary_approved": false
+    },
+    "source_type": "pratibha_personal_narration",
+    "review_status": "pending_owner_review",
+    "data_quality": {
+      "confidence": "high",
+      "missing_information": ["Preferred language", "Current contact details, if needed for invitations"],
+      "ambiguities": [],
+      "requires_confirmation": ["The thekua question must not be used as a security credential."]
+    }
+  },
+  {
+    "id": "bride-friend-kishangi",
+    "name": "Kishangi",
+    "side": "bride",
+    "relation": "Younger friend from NSS camp",
+    "aliases": [],
+    "traits": ["Friendly", "Humorous", "Fun-loving", "Careless with belongings, according to Pratibha"],
+    "bio": "Pratibha met Kishangi at an NSS camp. Kishangi is younger than Pratibha, and they share a unique, playful bond. They continued their friendship after camp, met on several occasions, visited each other's homes, chatted, and went out for lunch. Pratibha cherishes their camp memories, Holi celebrations, and later outings.",
+    "personal_context": {
+      "met_at": "NSS camp",
+      "relative_age": "Younger than Pratibha"
+    },
+    "relationship_context": {
+      "relationship_to_couple": "Friend of the bride",
+      "closeness": "Playful and affectionate friendship maintained after camp",
+      "shared_experiences": ["Holi celebrations at NSS camp", "Nighttime laughter and pretending to be drunk in their room", "Meeting after camp", "Kishangi visiting Pratibha when Pratibha could not visit her", "Lunch outings and conversations"],
+      "memorable_stories": [
+        {
+          "event": "Lost belongings at a station",
+          "details": "Kishangi once told Pratibha that she had left a polybag at a station and forgotten about it. The bag contained a novel, ornaments, and other unspecified items.",
+          "type": "Humorous anecdote as recalled by Pratibha"
+        }
+      ],
+      "important_people": [],
+      "special_significance": "Kishangi brings fun and laughter into Pratibha's life, and their friendship continued beyond the NSS camp."
+    },
+    "professional_context": {
+      "organization": "NSS camp",
+      "role": "Camp participants",
+      "team": null,
+      "work_relationship": null
+    },
+    "conversation_style": {
+      "tone": "Casual, cheerful, friendly",
+      "humor": "Playful teasing and camp anecdotes",
+      "formality": "Informal",
+      "preferred_language": null,
+      "communication_guidelines": ["Use lighthearted humor without being insulting.", "Treat the lost-belongings story as a friendly anecdote, not a serious judgment."]
+    },
+    "conversation_starters": ["Do you remember our late-night giggles at NSS camp?", "Do you remember our Holi celebration?", "Have you and Pratibha managed to plan another lunch together?"],
+    "conversation_topics": {
+      "recommended": ["NSS camp", "Holi", "Lunch outings", "Lost-belongings anecdote", "Friendship", "Wedding plans"],
+      "avoid": [],
+      "follow_up_questions": ["Which NSS camp memory do you remember most?", "Will you be able to attend Pratibha's wedding?"]
+    },
+    "wedding_encouragement": {
+      "approach": "Cheerful and affectionate invitation",
+      "attendance_importance": "Pratibha would love Kishangi to attend",
+      "invite_with": [],
+      "special_arrangements": [],
+      "known_constraints": [],
+      "rsvp_status": null
+    },
+    "verification_question_candidates": [],
+    "ai_personalization": {
+      "greeting_suggestions": ["Hey, Kishangi! Pratibha remembers all the laughter from your NSS camp days."],
+      "personalization_points": ["NSS camp antics", "Holi", "Lunch outings", "The forgotten polybag"],
+      "emotional_tone": "Cheerful, affectionate, nostalgic",
+      "safe_memory_references": ["Shared camp and lunch memories, subject to approval"],
+      "conversation_boundaries": ["Do not exaggerate or invent details about the lost items."]
+    },
+    "approved_for_guests": false,
+    "visibility_policy": {
+      "default": "owner_only",
+      "share_with_subject_after_verified_login": false,
+      "public_summary_approved": false
+    },
+    "source_type": "pratibha_personal_narration",
+    "review_status": "pending_owner_review",
+    "data_quality": {
+      "confidence": "high",
+      "missing_information": ["Preferred language", "Current contact details, if needed for invitations"],
+      "ambiguities": ["The other items in the lost polybag were not specified."],
+      "requires_confirmation": []
+    }
+  },
+  {
+    "id": "bride-friend-mukul",
+    "name": "Mukul",
+    "side": "bride",
+    "relation": "Friend and current caretaker of Pratibha's cat",
+    "aliases": [],
+    "traits": ["Friendly", "Humorous", "Comedic", "Hardworking", "Resilient, as perceived by Pratibha"],
+    "bio": "Pratibha describes Mukul as a friendly, humorous person and a great comedian who can make people laugh even in tense situations. She respects how hard he works and hopes he achieves great success after the struggles he has experienced. Mukul is currently caring for Pratibha's cat, Kajru, according to her narration.",
+    "personal_context": {
+      "cat_name": "Kajru",
+      "pet_care_context": "Mukul is currently looking after Pratibha's cat"
+    },
+    "relationship_context": {
+      "relationship_to_couple": "Friend of the bride",
+      "closeness": "Friendly; Pratibha values their conversations and humor",
+      "shared_experiences": ["Small conversations", "Mukul teasing Pratibha when she announced that her marriage had been fixed"],
+      "memorable_stories": ["Pratibha remembers Mukul teasing her after she told him that her marriage had been fixed."],
+      "important_people": ["Kajru, Pratibha's cat"],
+      "special_significance": "Pratibha appreciates his humor, hard work, and the care he is providing to her cat."
+    },
+    "professional_context": {
+      "organization": null,
+      "role": null,
+      "team": null,
+      "work_relationship": null
+    },
+    "conversation_style": {
+      "tone": "Friendly, encouraging, humorous",
+      "humor": "Comedy and light teasing",
+      "formality": "Informal",
+      "preferred_language": null,
+      "communication_guidelines": ["Use positive humor.", "Avoid probing into personal struggles unless he chooses to discuss them."]
+    },
+    "conversation_starters": ["How is Kajru doing?", "Do you remember teasing Pratibha when her marriage was fixed?", "How have things been going for you lately?"],
+    "conversation_topics": {
+      "recommended": ["Kajru", "Shared conversations", "Comedy", "Career aspirations if he welcomes the topic", "Wedding plans"],
+      "avoid": ["Intrusive questions about past hardships"],
+      "follow_up_questions": ["Is Kajru settling in well?", "Will you be able to attend Pratibha's wedding?"]
+    },
+    "wedding_encouragement": {
+      "approach": "Friendly, heartfelt invitation",
+      "attendance_importance": "Pratibha would be happy if Mukul attended",
+      "invite_with": [],
+      "special_arrangements": [],
+      "known_constraints": [],
+      "rsvp_status": null
+    },
+    "verification_question_candidates": [],
+    "ai_personalization": {
+      "greeting_suggestions": ["Hey, Mukul! Pratibha sends her best wishes—and hopes Kajru is doing well."],
+      "personalization_points": ["His humor", "The marriage-announcement teasing", "Kajru"],
+      "emotional_tone": "Friendly, supportive, upbeat",
+      "safe_memory_references": ["Approved shared memories and pet updates"],
+      "conversation_boundaries": ["Do not disclose private information about Mukul's past struggles."]
+    },
+    "approved_for_guests": false,
+    "visibility_policy": {
+      "default": "owner_only",
+      "share_with_subject_after_verified_login": false,
+      "public_summary_approved": false
+    },
+    "source_type": "pratibha_personal_narration",
+    "review_status": "pending_owner_review",
+    "data_quality": {
+      "confidence": "high",
+      "missing_information": ["Full name", "Preferred language"],
+      "ambiguities": ["The duration and current arrangements of Kajru's care were not specified."],
+      "requires_confirmation": []
+    }
+  },
+  {
+    "id": "bride-friend-neha-dii",
+    "name": "Neha",
+    "side": "bride",
+    "relation": "Elder-sister figure and trusted emotional supporter",
+    "aliases": ["Neha Dii"],
+    "traits": ["Kind", "Beautiful-hearted", "Supportive", "Guiding", "Empathetic", "Dependable"],
+    "bio": "Pratibha considers Neha Dii an elder sister and a beautiful person inside and out. Neha has supported and guided Pratibha during vulnerable moments, especially through virtual conversations. Although she may not always be physically present, Pratibha feels warmth and comfort through her words. Pratibha feels blessed to have the elder-sister relationship she had always wished for. Neha is preparing to begin a new chapter in her own life, and Pratibha wishes her happiness and success.",
+    "personal_context": {
+      "relationship_role": "Chosen elder-sister figure",
+      "current_life_transition": "Preparing to begin a new chapter; details not provided"
+    },
+    "relationship_context": {
+      "relationship_to_couple": "Beloved elder-sister figure to the bride",
+      "closeness": "Deeply meaningful and emotionally close",
+      "shared_experiences": ["Virtual conversations", "Guidance and support during vulnerable moments"],
+      "memorable_stories": ["Neha has comforted Pratibha through her words when she could not be physically present."],
+      "important_people": [],
+      "special_significance": "Neha fulfilled Pratibha's long-held wish for an elder sister and remains a valued source of support."
+    },
+    "professional_context": {
+      "organization": null,
+      "role": null,
+      "team": null,
+      "work_relationship": null
+    },
+    "conversation_style": {
+      "tone": "Deeply affectionate, respectful, gentle",
+      "humor": "Gentle humor when appropriate",
+      "formality": "Affectionate and respectful",
+      "preferred_language": null,
+      "communication_guidelines": ["Acknowledge her importance without making her feel guilty about wedding attendance.", "Offer sincere well-wishes for her upcoming life transition."]
+    },
+    "conversation_starters": ["How are you feeling about the new chapter ahead?", "Pratibha sends you so much love and wishes you the very best."],
+    "conversation_topics": {
+      "recommended": ["Their sister-like bond", "Her support and guidance", "Her upcoming life transition, if she wishes to discuss it", "Warm wishes"],
+      "avoid": ["Pressuring her to attend the wedding when Pratibha already expects she may not be able to"],
+      "follow_up_questions": ["Is there anything exciting you would like to share about your new chapter?", "How have you been feeling lately?"]
+    },
+    "wedding_encouragement": {
+      "approach": "Send love and understanding rather than pressure; acknowledge that attendance may not be possible",
+      "attendance_importance": "Pratibha loves her deeply but expects she may not be able to attend",
+      "invite_with": [],
+      "special_arrangements": [],
+      "known_constraints": ["Pratibha believes Neha may be unable to attend because of an upcoming life transition."],
+      "rsvp_status": null
+    },
+    "verification_question_candidates": [],
+    "ai_personalization": {
+      "greeting_suggestions": ["Hello, Neha Dii. Pratibha sends you lots of love and heartfelt wishes."],
+      "personalization_points": ["Her role as an elder sister", "Her virtual support", "Pratibha's gratitude"],
+      "emotional_tone": "Tender, appreciative, reassuring",
+      "safe_memory_references": ["The sister-like bond and approved supportive memories"],
+      "conversation_boundaries": ["Do not disclose details of vulnerable conversations.", "Do not pressure her about attending."]
+    },
+    "approved_for_guests": false,
+    "visibility_policy": {
+      "default": "owner_only",
+      "share_with_subject_after_verified_login": false,
+      "public_summary_approved": false
+    },
+    "source_type": "pratibha_personal_narration",
+    "review_status": "pending_owner_review",
+    "data_quality": {
+      "confidence": "high",
+      "missing_information": ["Full name", "Preferred language", "Details of the upcoming life transition, if relevant"],
+      "ambiguities": ["The nature and timing of her upcoming life transition were not specified."],
+      "requires_confirmation": []
+    }
+  },
+  {
+    "id": "bride-friend-rajni",
+    "name": "Rajni",
+    "side": "bride",
+    "relation": "Friend from DAV",
+    "aliases": [],
+    "traits": ["Kind-hearted", "Friendly", "Sociable"],
+    "bio": "Rajni is Pratibha's friend from DAV. Pratibha describes her as a beautiful soul inside and out. They try to meet and spend time together each year, sharing moments and laughing together. Pratibha treasures their time together and would be happy to have Rajni at her wedding.",
+    "personal_context": {
+      "school_association": "DAV"
+    },
+    "relationship_context": {
+      "relationship_to_couple": "Friend of the bride",
+      "closeness": "Warm friendship maintained through occasional meetups",
+      "shared_experiences": ["Meeting up from time to time, with an effort to connect each year", "Sharing moments and laughing together"],
+      "memorable_stories": [],
+      "important_people": [],
+      "special_significance": "Pratibha values the memories they continue to make despite not necessarily meeting frequently."
+    },
+    "professional_context": {
+      "organization": "DAV",
+      "role": "School friend",
+      "team": null,
+      "work_relationship": null
+    },
+    "conversation_style": {
+      "tone": "Friendly and warm",
+      "humor": "Light, shared laughter",
+      "formality": "Informal",
+      "preferred_language": null,
+      "communication_guidelines": ["Keep the tone relaxed and welcoming.", "Do not assume frequent contact beyond what was described."]
+    },
+    "conversation_starters": ["How have you been?", "Can you remember one of our favorite DAV memories?", "Will you be able to join Pratibha for her wedding?"],
+    "conversation_topics": {
+      "recommended": ["DAV memories", "Recent catch-ups", "Shared laughter", "Wedding plans"],
+      "avoid": [],
+      "follow_up_questions": ["When did you last get a chance to catch up?", "Will you be able to attend the wedding?"]
+    },
+    "wedding_encouragement": {
+      "approach": "Warm invitation emphasizing the value of meeting and making another memory together",
+      "attendance_importance": "Pratibha would be very happy if Rajni attended",
+      "invite_with": [],
+      "special_arrangements": [],
+      "known_constraints": [],
+      "rsvp_status": null
+    },
+    "verification_question_candidates": [],
+    "ai_personalization": {
+      "greeting_suggestions": ["Hi, Rajni! Pratibha sends you warm wishes and hopes you can celebrate this special day together."],
+      "personalization_points": ["DAV friendship", "Yearly catch-ups", "Shared laughter"],
+      "emotional_tone": "Warm, cheerful, nostalgic",
+      "safe_memory_references": ["Approved school and catch-up memories"],
+      "conversation_boundaries": ["Do not invent specific school incidents."]
+    },
+    "approved_for_guests": false,
+    "visibility_policy": {
+      "default": "owner_only",
+      "share_with_subject_after_verified_login": false,
+      "public_summary_approved": false
+    },
+    "source_type": "pratibha_personal_narration",
+    "review_status": "pending_owner_review",
+    "data_quality": {
+      "confidence": "high",
+      "missing_information": ["Preferred language", "Current contact details, if needed for invitations"],
+      "ambiguities": [],
+      "requires_confirmation": []
+    }
+  },
+  {
+    "id": "bride-friend-rajat-bhaiya",
+    "name": "Rajat",
+    "side": "bride",
+    "relation": "Older-brother figure and supportive friend from graduation",
+    "aliases": ["Rajat Bhaiya"],
+    "traits": ["Supportive", "Helpful", "Reliable", "Considerate", "Busy but responsive"],
+    "bio": "Pratibha met Rajat Bhaiya during graduation at YSM. Although they studied in different streams, he consistently supported, guided, and helped her whenever needed. Pratibha says he treats her like a younger sister and makes an effort to respond even with a very tight schedule. She deeply respects him and promises she will never forget him, especially because he often jokes that she will eventually forget him.",
+    "personal_context": {
+      "education_association": "YSM",
+      "study_streams": "Different streams"
+    },
+    "relationship_context": {
+      "relationship_to_couple": "Supportive older-brother figure to the bride",
+      "closeness": "Strongly appreciated, respectful relationship",
+      "shared_experiences": ["His guidance and help during graduation and afterward", "His efforts to respond despite a demanding schedule", "Repeated joking reminders that Pratibha will forget him"],
+      "memorable_stories": ["Rajat often tells Pratibha that she will forget him; she insists that she never will."],
+      "important_people": [],
+      "special_significance": "Pratibha is grateful for his continued support and sees him as someone she will always respect."
+    },
+    "professional_context": {
+      "organization": "YSM",
+      "role": "Student from a different stream during the shared period",
+      "team": null,
+      "work_relationship": null
+    },
+    "conversation_style": {
+      "tone": "Respectful, grateful, affectionate",
+      "humor": "Gentle teasing around the idea of being forgotten",
+      "formality": "Respectful and familiar",
+      "preferred_language": null,
+      "communication_guidelines": ["Address him respectfully as Bhaiya.", "Acknowledge his support without implying he owes further help."]
+    },
+    "conversation_starters": ["Hello, Rajat Bhaiya! Pratibha is grateful for all the help and guidance you have given her.", "Do you still joke that Pratibha will forget you?", "Will you be able to attend her wedding?"],
+    "conversation_topics": {
+      "recommended": ["Graduation memories", "His guidance", "Gratitude", "Wedding plans"],
+      "avoid": ["Pressuring him to respond immediately despite his busy schedule"],
+      "follow_up_questions": ["How have you been keeping?", "Will your schedule allow you to attend the wedding?"]
+    },
+    "wedding_encouragement": {
+      "approach": "Respectful and heartfelt invitation",
+      "attendance_importance": "Pratibha would be extremely happy to see him at the wedding",
+      "invite_with": [],
+      "special_arrangements": [],
+      "known_constraints": ["He has a tight schedule, according to Pratibha."],
+      "rsvp_status": null
+    },
+    "verification_question_candidates": [],
+    "ai_personalization": {
+      "greeting_suggestions": ["Namaste, Rajat Bhaiya! Pratibha sends her respect and heartfelt thanks."],
+      "personalization_points": ["His guidance", "His busy schedule", "His joke about being forgotten"],
+      "emotional_tone": "Respectful, grateful, affectionate",
+      "safe_memory_references": ["Approved shared memories of support"],
+      "conversation_boundaries": ["Respect his time and avoid pressure."]
+    },
+    "approved_for_guests": false,
+    "visibility_policy": {
+      "default": "owner_only",
+      "share_with_subject_after_verified_login": false,
+      "public_summary_approved": false
+    },
+    "source_type": "pratibha_personal_narration",
+    "review_status": "pending_owner_review",
+    "data_quality": {
+      "confidence": "high",
+      "missing_information": ["Full name", "Preferred language"],
+      "ambiguities": [],
+      "requires_confirmation": []
+    }
+  },
+  {
+    "id": "bride-friend-rohit-kumar-gupta",
+    "name": "Rohit Kumar Gupta",
+    "side": "bride",
+    "relation": "Friend from graduation",
+    "aliases": [],
+    "traits": ["Helpful", "Polite", "Gentle", "Respectful", "Kind"],
+    "bio": "Rohit Kumar Gupta is Pratibha's friend from graduation. They were not classmates, but he has consistently been kind, respectful, and helpful. Pratibha appreciates his gentle manner of speaking and his willingness to help whenever she needs assistance. She wishes him success and lasting happiness.",
+    "personal_context": {
+      "education_association": "Graduation",
+      "classmate_status": "They were not classmates"
+    },
+    "relationship_context": {
+      "relationship_to_couple": "Friend of the bride",
+      "closeness": "Friendly and respectful",
+      "shared_experiences": ["Helpful interactions during their graduation years and beyond"],
+      "memorable_stories": [],
+      "important_people": [],
+      "special_significance": "Pratibha values his kindness, politeness, and consistent helpfulness."
+    },
+    "professional_context": {
+      "organization": null,
+      "role": null,
+      "team": null,
+      "work_relationship": null
+    },
+    "conversation_style": {
+      "tone": "Polite, warm, appreciative",
+      "humor": "No particular humor preference established",
+      "formality": "Courteous and friendly",
+      "preferred_language": null,
+      "communication_guidelines": ["Use respectful language.", "Do not assume a closer relationship than the narration supports."]
+    },
+    "conversation_starters": ["Hello, Rohit! Pratibha sends her best wishes.", "How have you been lately?", "Will you be able to join Pratibha's wedding celebration?"],
+    "conversation_topics": {
+      "recommended": ["Graduation memories", "General well-being", "Career and aspirations if he welcomes them", "Wedding plans"],
+      "avoid": [],
+      "follow_up_questions": ["What have you been up to recently?", "Will you be able to attend the wedding?"]
+    },
+    "wedding_encouragement": {
+      "approach": "Courteous and heartfelt invitation",
+      "attendance_importance": "Pratibha would be very happy if Rohit attended",
+      "invite_with": [],
+      "special_arrangements": [],
+      "known_constraints": [],
+      "rsvp_status": null
+    },
+    "verification_question_candidates": [],
+    "ai_personalization": {
+      "greeting_suggestions": ["Hello, Rohit Kumar Gupta! Pratibha sends you warm wishes and appreciation."],
+      "personalization_points": ["His polite manner", "His helpfulness", "Graduation connection"],
+      "emotional_tone": "Warm, respectful, appreciative",
+      "safe_memory_references": ["Approved general memories of their friendship"],
+      "conversation_boundaries": ["Do not invent specific incidents or personal facts."]
+    },
+    "approved_for_guests": false,
+    "visibility_policy": {
+      "default": "owner_only",
+      "share_with_subject_after_verified_login": false,
+      "public_summary_approved": false
+    },
+    "source_type": "pratibha_personal_narration",
+    "review_status": "pending_owner_review",
+    "data_quality": {
+      "confidence": "high",
+      "missing_information": ["Preferred language", "Current contact details, if needed for invitations"],
+      "ambiguities": [],
+      "requires_confirmation": []
+    }
+  },
+  {
+    "id": "bride-friend-ritika",
+    "name": "Ritika",
+    "side": "bride",
+    "relation": "Childhood friend and first best friend",
+    "aliases": [],
+    "traits": ["Trustworthy", "Kind-hearted", "Supportive", "Trusted confidante", "Emotionally close"],
+    "bio": "Ritika is Pratibha's first best friend and childhood friend. They have known each other since class one and later coincidentally met again at DAV. Their friendship continued naturally, and they never felt like strangers. Pratibha considers Ritika a pure-hearted and deeply trusted person with whom she can share almost anything and seek advice. Ritika recently made Pratibha feel special by surprising her with a bachelorette party in her room at home. Pratibha expects Ritika to attend her wedding and playfully insists that she arrive on time and leave only after Pratibha does.",
+    "personal_context": {
+      "friendship_started": "Class one",
+      "school_association": "They later encountered each other again at DAV"
+    },
+    "relationship_context": {
+      "relationship_to_couple": "Childhood best friend of the bride",
+      "closeness": "Exceptionally close and deeply trusted",
+      "shared_experiences": ["Friendship since class one", "Reconnecting at DAV", "Sharing personal matters and seeking advice", "Bachelorette surprise at Pratibha's home"],
+      "memorable_stories": ["Ritika organized a surprise bachelorette party for Pratibha in her room at home, making Pratibha feel deeply special.", "Despite periods apart, they have continued to connect naturally without feeling like strangers."],
+      "important_people": [],
+      "special_significance": "Ritika is Pratibha's first best friend and one of her most trusted confidantes."
+    },
+    "professional_context": {
+      "organization": "DAV",
+      "role": "Schoolmates who reconnected",
+      "team": null,
+      "work_relationship": null
+    },
+    "conversation_style": {
+      "tone": "Intimate, affectionate, playful",
+      "humor": "Friendly teasing and personal inside jokes",
+      "formality": "Very informal and familiar",
+      "preferred_language": null,
+      "communication_guidelines": ["Celebrate their longstanding friendship.", "Use playful wedding reminders without turning them into pressure.", "Keep intimate personal details private."]
+    },
+    "conversation_starters": ["Do you remember our friendship going all the way back to class one?", "How could Pratibha forget that bachelorette surprise?", "Have you planned your wedding-day arrival yet?"],
+    "conversation_topics": {
+      "recommended": ["Childhood memories", "DAV", "Advice and friendship", "The bachelorette surprise", "Wedding plans"],
+      "avoid": ["Revealing intimate or personal advice to other guests"],
+      "follow_up_questions": ["What was your favorite part of planning the surprise?", "Are you ready for the wedding day?"]
+    },
+    "wedding_encouragement": {
+      "approach": "Playful, affectionate, and confident invitation while respecting her autonomy",
+      "attendance_importance": "Pratibha strongly expects and wants Ritika to attend",
+      "invite_with": [],
+      "special_arrangements": [],
+      "known_constraints": [],
+      "rsvp_status": null
+    },
+    "verification_question_candidates": [
+      {
+        "question": "What did Ritika teach Pratibha at night while sleeping?",
+        "expected_answer": "How to seduce a partner",
+        "purpose": "Owner-provided identity-check candidate only; not secure authentication",
+        "access_restriction": "Treat this as private, intimate personal trivia. Do not expose the expected answer or use it to authorize access."
+      }
+    ],
+    "ai_personalization": {
+      "greeting_suggestions": ["Hey, Ritika! Pratibha sends you lots of love—and expects you to be on time for the wedding!"],
+      "personalization_points": ["Friendship since class one", "Reconnecting at DAV", "Bachelorette surprise"],
+      "emotional_tone": "Deeply affectionate, joyful, playful",
+      "safe_memory_references": ["Childhood friendship and bachelorette celebration, if approved"],
+      "conversation_boundaries": ["The verification candidate and its answer are not for guest-facing disclosure.", "Do not reveal intimate private details."]
+    },
+    "approved_for_guests": false,
+    "visibility_policy": {
+      "default": "owner_only",
+      "share_with_subject_after_verified_login": false,
+      "public_summary_approved": false
+    },
+    "source_type": "pratibha_personal_narration",
+    "review_status": "pending_owner_review",
+    "data_quality": {
+      "confidence": "high",
+      "missing_information": ["Preferred language", "Current contact details, if needed for invitations"],
+      "ambiguities": [],
+      "requires_confirmation": ["The intimate verification-question candidate must remain private and must not function as authentication."]
+    }
+  },
+  {
+    "id": "bride-friend-sakshi-singh",
+    "name": "Sakshi Singh",
+    "side": "bride",
+    "relation": "Friend from graduation",
+    "aliases": [],
+    "traits": ["Brave", "Smart", "Outspoken", "Beautiful", "Bold", "Humorous", "Energetic"],
+    "bio": "Pratibha met Sakshi during graduation. She describes Sakshi as brave, smart, outspoken, bold, humorous, and someone whose presence prevents people from getting bored. They have memories together, including participating in kabaddi. Pratibha also visited Sakshi's home to taste her cooking. She cherishes their shared experiences and would be happy to see Sakshi at her wedding.",
+    "personal_context": {
+      "education_association": "Graduation"
+    },
+    "relationship_context": {
+      "relationship_to_couple": "Friend of the bride",
+      "closeness": "Friendly, with shared activities and social memories",
+      "shared_experiences": ["Participating in kabaddi", "Pratibha visiting Sakshi's home to taste her cooking"],
+      "memorable_stories": ["Pratibha remembers their kabaddi participation and visiting Sakshi's home for her cooking."],
+      "important_people": ["Kalpana, who was also mentioned in connection with lunch outings"],
+      "special_significance": "Pratibha values Sakshi's lively personality and the memories they share."
+    },
+    "professional_context": {
+      "organization": null,
+      "role": "Friend from graduation",
+      "team": null,
+      "work_relationship": null
+    },
+    "conversation_style": {
+      "tone": "Energetic, warm, friendly",
+      "humor": "Playful and lively",
+      "formality": "Informal",
+      "preferred_language": null,
+      "communication_guidelines": ["Be friendly and lively.", "Do not mistake an outspoken personality for permission to disclose private information."]
+    },
+    "conversation_starters": ["Do you remember when you and Pratibha played kabaddi?", "How is your cooking going?", "Will you be joining Pratibha for her wedding?"],
+    "conversation_topics": {
+      "recommended": ["Kabaddi", "Graduation memories", "Cooking", "Shared friends", "Wedding plans"],
+      "avoid": [],
+      "follow_up_questions": ["What do you enjoy cooking these days?", "Will you be able to attend the wedding?"]
+    },
+    "wedding_encouragement": {
+      "approach": "Cheerful, friendly invitation",
+      "attendance_importance": "Pratibha would be happy to see Sakshi at the wedding",
+      "invite_with": [],
+      "special_arrangements": [],
+      "known_constraints": [],
+      "rsvp_status": null
+    },
+    "verification_question_candidates": [
+      {
+        "question": "What did Sakshi take from Pratibha?",
+        "expected_answer": "Thekua",
+        "purpose": "Owner-provided identity-check candidate only; not secure authentication",
+        "access_restriction": "Do not disclose the answer to the guest or use it to authorize private-data access."
+      }
+    ],
+    "ai_personalization": {
+      "greeting_suggestions": ["Hey, Sakshi! Pratibha sends her warm wishes and hopes to celebrate with you."],
+      "personalization_points": ["Kabaddi", "Her cooking", "Her lively and humorous personality"],
+      "emotional_tone": "Cheerful, energetic, affectionate",
+      "safe_memory_references": ["Approved shared social memories"],
+      "conversation_boundaries": ["Keep the verification answer private.", "Do not treat trivia as authentication."]
+    },
+    "approved_for_guests": false,
+    "visibility_policy": {
+      "default": "owner_only",
+      "share_with_subject_after_verified_login": false,
+      "public_summary_approved": false
+    },
+    "source_type": "pratibha_personal_narration",
+    "review_status": "pending_owner_review",
+    "data_quality": {
+      "confidence": "high",
+      "missing_information": ["Preferred language", "Current contact details, if needed for invitations"],
+      "ambiguities": [],
+      "requires_confirmation": ["The thekua question must not be used as a security credential."]
+    }
+  },
+  {
+    "id": "bride-friend-aniket-pandey",
+    "name": "Aniket Pandey",
+    "side": "bride",
+    "relation": "Friend",
+    "aliases": ["Pandu"],
+    "traits": ["Smart", "Humorous", "Bold", "Strong-willed", "Playful", "Popular, according to Pratibha"],
+    "bio": "Pratibha describes Aniket Pandey as having a 'don-like' personality, being smart and humorous, and acting like an angry young man. She jokes that he is always ready to fight and enjoys breaking bones, and that he has a large fan following among both girls and boys. In her playful account, he keeps his helmet on to avoid attention from boys. Pratibha enjoys his company, cherishes their memories, and wishes him success in everything he pursues, jokingly excluding his naughty ambitions.",
+    "personal_context": {
+      "nickname_used_by_pratibha": "Pandu",
+      "narrator_characterization": "The 'don' and 'angry young man' descriptions are playful impressions from Pratibha, not verified facts."
+    },
+    "relationship_context": {
+      "relationship_to_couple": "Friend of the bride",
+      "closeness": "Enjoys his company and values their shared memories",
+      "shared_experiences": ["Shared conversations and companionship; specific events were not described"],
+      "memorable_stories": ["Pratibha jokes about Aniket's supposed fighting persona, his popularity, and keeping his helmet on to avoid attention."],
+      "important_people": [],
+      "special_significance": "Pratibha values his company and hopes he achieves great success."
+    },
+    "professional_context": {
+      "organization": null,
+      "role": null,
+      "team": null,
+      "work_relationship": null
+    },
+    "conversation_style": {
+      "tone": "Playful, upbeat, friendly",
+      "humor": "Teasing and exaggerated jokes",
+      "formality": "Informal",
+      "preferred_language": null,
+      "communication_guidelines": ["Treat the fighting references as jokes unless clarified otherwise.", "Avoid encouraging real violence or presenting jokes as verified conduct."]
+    },
+    "conversation_starters": ["Hey, Pandu! Pratibha sends her best wishes.", "How is the 'angry young man' doing?", "Are you ready to show up for Pratibha's wedding?"],
+    "conversation_topics": {
+      "recommended": ["Shared memories", "Friendly teasing", "Goals and aspirations", "Wedding plans"],
+      "avoid": ["Encouraging real violence", "Unverified claims about relationships or admirers"],
+      "follow_up_questions": ["What are you working toward these days?", "Will you be able to join Pratibha on her wedding day?"]
+    },
+    "wedding_encouragement": {
+      "approach": "Playful and affectionate invitation",
+      "attendance_importance": "Pratibha would be happiest to have Aniket present",
+      "invite_with": [],
+      "special_arrangements": [],
+      "known_constraints": [],
+      "rsvp_status": null
+    },
+    "verification_question_candidates": [
+      {
+        "question": "What does Pratibha call Aniket?",
+        "expected_answer": "Pandu",
+        "purpose": "Owner-provided identity-check candidate only; not secure authentication",
+        "access_restriction": "Do not disclose the expected answer or use it to authorize private-data access."
+      }
+    ],
+    "ai_personalization": {
+      "greeting_suggestions": ["Hey, Pandu! Pratibha hopes to see you at the wedding."],
+      "personalization_points": ["The nickname Pandu", "His humorous, don-like persona", "Pratibha's wishes for his success"],
+      "emotional_tone": "Playful, encouraging, friendly",
+      "safe_memory_references": ["Approved lighthearted jokes and shared memories"],
+      "conversation_boundaries": ["Keep the tone non-threatening.", "Do not reveal the verification answer.", "Do not represent exaggerated jokes as established facts."]
+    },
+    "approved_for_guests": false,
+    "visibility_policy": {
+      "default": "owner_only",
+      "share_with_subject_after_verified_login": false,
+      "public_summary_approved": false
+    },
+    "source_type": "pratibha_personal_narration",
+    "review_status": "pending_owner_review",
+    "data_quality": {
+      "confidence": "high",
+      "missing_information": ["How and when Pratibha met Aniket", "Preferred language", "Current contact details, if needed for invitations"],
+      "ambiguities": ["The fighting and fan-following descriptions appear humorous and have not been independently established."],
+      "requires_confirmation": ["The Pandu question must not be used as a security credential."]
+    }
   }
 
+
+  
   
 ]
